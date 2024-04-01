@@ -1,5 +1,10 @@
 # chessboard_calibration
-Camera calibration and distortion correction were applied to the chessboard.
+Camera calibration and distortion correction were applied to the chessboard.<br />
+
+
+
+**camera calibration** : Find camera calibration in video showing chessboard<br />
+**distortion correction**:  Corrects video distortion
 
 ## Camera Calibration Results
 * The number of selected images = 50
